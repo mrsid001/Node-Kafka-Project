@@ -1,0 +1,34 @@
+{
+	"SubmitClaim": {
+		"Customer": {
+			"First_Name": "str1234",
+			"Middle_Name": "str1234",
+			"Last_Name": "str1234",
+			"Email": "str1234",
+			"Phone_No": "str1234",
+			"Date_of_Birth": "str1234"
+		},
+		"Address": {
+			"Address_1": "str1234",
+			"Address_2": "str1234",
+			"Zip": "str1234",
+			"City": "str1234",
+			"State": "str1234",
+			"Country": "str1234"
+		},
+		"Policy": {
+			"Policy_Id": "str1234",
+			"Start_date": "str1234",
+			"End_date": "str1234"
+		},
+		"Claim": {
+			"Claim_id": "str1234",
+			"Date_of_Claim": "str1234",
+			"Date_of_settlement": "str1234",
+			"Amount_Claimed": "str1234",
+			"Amount_paid": "str1234",
+			"Claim_Processing_Stage": "str1234"
+			
+		}
+	}
+}
